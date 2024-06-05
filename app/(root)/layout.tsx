@@ -36,7 +36,7 @@ export default function RootLayout({
                 <RightSidebar />
             </main>
 
-            <PodcastPlayer />
+            {/* <PodcastPlayer /> */}
         </div>
     );
 }

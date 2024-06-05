@@ -1,8 +1,9 @@
 import React from 'react'
+import { cn } from '@/lib/utils';
 
 const RightSidebar = () => {
     return (
-        <div>RightSidebar</div>
+        <section className="right_sidebar text-white-1">RightSidebar</section>
     )
 }
 
